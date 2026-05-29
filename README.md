@@ -2,18 +2,22 @@
 // whoami
 
 const ammar = {
-  role: "software engineer",
+  role: "Software Engineer",
   location: "London",
-  interests: [
-    "Distributed Systems",
-    "AI Infrastructure",
-    "Databases"
-  ],
+  experience: {
+    HubSpot : ["Software Engneering Co-Op"], 
+    "GWC Logistics" : ["Software Engineer", "Software Engineer Intern"]
+  }, 
   languages: [
     "Python",
     "Java",
     "Go",
     "TypeScript",
+  ],
+  interests: [
+    "Distributed Systems",
+    "AI Infrastructure",
+    "Databases"
   ],
 };
 ```
