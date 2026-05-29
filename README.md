@@ -6,8 +6,8 @@ const ammar = {
   location: "London",
   interests: [
     "Distributed Systems",
-    "Performance Engineering",
     "AI Infrastructure",
+    "Databases"
   ],
   languages: [
     "Python",
