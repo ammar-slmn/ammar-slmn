@@ -5,8 +5,8 @@ const ammar = {
   role: "Software Engineer",
   location: "London",
   experience: {
-    HubSpot : ["Software Engneering Co-Op"], 
-    "GWC Logistics" : ["Software Engineer", "Software Engineer Intern"]
+    hubSpot: ["Software Engneering Co-Op"], 
+    gwc_logistics: ["Software Engineer", "Software Engineer Intern"]
   }, 
   languages: [
     "Python",
