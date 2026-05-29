@@ -1,19 +1,24 @@
-```python
-# ~/whoami
+```java
+// ~/whoami
 
-ammar = {
-    "role": "software engineer",
-    "location": "London",
-    "interests": [
-        "Distributed Systems",
-        "Performance Engineering",
-        "AI Infrastructure",
-    ],
-    "languages": [
-        "Python",
-        "Java",
-        "Go",
-        "TypeScript",
-    ],
+import java.util.List;
+import java.util.Map;
+
+public class WhoAmI {
+    private static final Map<String, Object> ammar = Map.of(
+        "role", "software engineer",
+        "location", "London",
+        "interests", List.of(
+            "Distributed Systems",
+            "Performance Engineering",
+            "AI Infrastructure"
+        ),
+        "languages", List.of(
+            "Python",
+            "Java",
+            "Go",
+            "TypeScript"
+        )
+    );
 }
 ```
