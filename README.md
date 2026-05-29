@@ -1,4 +1,6 @@
 ```typescript
+// whoami
+
 const ammar = {
   role: "software engineer",
   location: "London",
