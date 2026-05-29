@@ -1,8 +1,19 @@
--- ~/whoami
+```python
+# ~/whoami
 
-local ammar = {
-  role = "software engineer",
-  location = "London"
-  interests = { "Distributed Systems", "Performance Engineering", "AI Infrastructure"}
-  languages = { "Python", "Java, "Go", "TypeScript"}
+ammar = {
+    "role": "software engineer",
+    "location": "London",
+    "interests": [
+        "Distributed Systems",
+        "Performance Engineering",
+        "AI Infrastructure",
+    ],
+    "languages": [
+        "Python",
+        "Java",
+        "Go",
+        "TypeScript",
+    ],
 }
+```
