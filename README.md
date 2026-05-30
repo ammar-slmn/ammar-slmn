@@ -17,7 +17,7 @@ const ammar = {
   interests: [
     "Distributed Systems",
     "AI Infrastructure",
-    "Databases",
+    "High Performance Computing",
   ],
 };
 ```
